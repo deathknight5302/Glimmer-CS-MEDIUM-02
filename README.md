@@ -1,4 +1,6 @@
 # Pretask  
+真的真的没有时间了，所以只写完了一部分XD  
+我学习态度敲端正的，求善良QAQ
 [![pAwSdSJ.png](https://s21.ax1x.com/2024/10/24/pAwSdSJ.png)](https://imgse.com/i/pAwSdSJ)  
 ```
 #include<stdio.h>
